@@ -18,7 +18,7 @@ $(button).on('click', function() {
 
 function showvid() {
   Swal.fire({
-  title: "Asikk punya pacar... Kalo video gak nge load, internet mu :(",
+  title: "Asikk punya pacar... Kalo video gak muncul, internet mu :(",
   html:
     `<video height="100%" width="100%" autoplay>
   <source src="vid/video.mp4" type="video/mp4">
